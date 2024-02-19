@@ -1,1 +1,3 @@
-"# week_3" 
+# week_3
+
+live preview: https://raneemelgendy.github.io/week_3/
